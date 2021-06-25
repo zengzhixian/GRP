@@ -1,2 +1,2 @@
 # GRP
-Our code is based on GPO.
+Our code is based on Generalized Pooling Operator (GPO).
